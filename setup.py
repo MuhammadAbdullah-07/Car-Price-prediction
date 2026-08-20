@@ -8,7 +8,7 @@ def get_requirements(file_path):
         lines=file.readlines()  ### Reading each line of requirements.txt
         requirements =[line.replace("\n","") for line in lines]  ## Saving result back to requirements
         if HYPEN_E_DOT in lines:
-            lines.remove(HYPEN_E_DOT)
+            requirements.remove(HYPEN_E_DOT)
 
     return requirements     
 

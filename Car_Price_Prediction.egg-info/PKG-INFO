@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: Car-Price-Prediction
+Version: 0.0.1
+Author: Muhammad Abdullah
+Requires-Dist: ipykernel
+Requires-Dist: flask
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Dynamic: author
+Dynamic: requires-dist
