@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Price Predictor</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #1a1a2e, #16213e);
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+        }
+
+        .container {
+            text-align: center;
+            padding: 50px;
+        }
+
+        h1 { font-size: 3rem; margin-bottom: 10px; color: #00d4ff; }
+        h2 { font-size: 1.5rem; margin-bottom: 30px; color: #ccc; }
+
+        .btn {
+            background: #00d4ff;
+            color: #1a1a2e;
+            padding: 15px 40px;
+            border: none;
+            border-radius: 30px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            cursor: pointer;
+            text-decoration: none;
+        }
+
+        .btn:hover { background: #00a8cc; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚗 Car Price Predictor</h1>
+        <h2>Get instant price prediction for your used car!</h2>
+        <a href="{{ url_for('prediction') }}" class="btn">Start Prediction →</a>
+    </div>
+</body>
+</html>
