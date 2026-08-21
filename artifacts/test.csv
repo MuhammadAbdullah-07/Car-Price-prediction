@@ -1,0 +1,201 @@
+Car_Name,Year,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner,Car_Age,Selling_Price
+Ford,2012,16.07,77827.0,CNG,Dealer,Automatic,1.0,12,4.11
+Audi,2012,3.21,86982.0,Diesel,Dealer,Manual,0.0,12,0.5
+Mercedes,2021,22.07,51218.0,Diesel,Dealer,Manual,1.0,3,8.67
+Ford,2012,24.59,96176.0,Diesel,Dealer,Manual,0.0,12,10.13
+Kia,2022,24.11,57874.0,Petrol,Trustmark Dealer,Automatic,2.0,2,15.78
+Toyota,2016,31.81,157353.0,Petrol,Dealer,Automatic,0.0,8,14.43
+Mercedes,2014,22.92,89381.0,Petrol,Dealer,Automatic,1.0,10,10.69
+Mercedes,2013,5.33,29335.0,Diesel,Dealer,Manual,0.0,11,0.5
+Kia,2005,23.24,54170.0,CNG,Individual,Manual,0.0,19,5.47
+Kia,2012,6.37,28091.0,Diesel,Trustmark Dealer,Automatic,2.0,12,0.5
+Kia,2008,14.31,32518.0,Diesel,Individual,Automatic,0.0,16,4.46
+Kia,2014,19.82,142227.0,Petrol,Dealer,Manual,1.0,10,3.15
+Honda,2008,12.12,86132.0,Diesel,Trustmark Dealer,Automatic,,16,0.64
+Hyundai,2016,8.85,183736.0,Petrol,Individual,Manual,2.0,8,0.5
+Toyota,2012,26.1,174831.0,Diesel,Dealer,Manual,0.0,12,9.48
+Suzuki,2013,18.3,146727.0,Diesel,Dealer,Automatic,0.0,11,4.43
+Hyundai,2017,34.42,68811.0,Petrol,Dealer,Automatic,0.0,7,23.9
+Audi,2022,26.14,20810.0,Diesel,Individual,Automatic,1.0,2,16.82
+Toyota,2017,18.61,18652.0,CNG,Dealer,Manual,0.0,7,8.44
+Honda,2006,16.93,144347.0,Petrol,Individual,Manual,2.0,18,0.5
+Ford,2017,29.86,181342.0,Diesel,Dealer,Manual,0.0,7,13.4
+Audi,2015,4.4,98344.0,CNG,Individual,Manual,1.0,9,0.5
+Hyundai,2009,33.31,158390.0,Diesel,Individual,Manual,0.0,15,12.87
+Ford,2015,31.76,97036.0,Diesel,Individual,Manual,1.0,9,16.1
+BMW,2016,7.82,60745.0,,Dealer,Automatic,3.0,8,0.5
+Ford,2014,25.01,172849.0,Diesel,Dealer,Automatic,1.0,10,10.33
+Toyota,2018,7.07,57428.0,Petrol,Trustmark Dealer,Manual,1.0,6,0.5
+Nissan,2005,18.23,73975.0,Petrol,Dealer,Manual,0.0,19,0.5
+Ford,2006,24.34,145431.0,Petrol,Individual,Manual,0.0,18,5.1
+Hyundai,2016,21.66,187828.0,Petrol,Dealer,Manual,,8,6.96
+BMW,2010,8.0,89995.0,Diesel,Individual,Automatic,1.0,14,0.5
+Mercedes,2011,15.4,80451.0,Diesel,Trustmark Dealer,Manual,2.0,13,0.5
+Hyundai,2019,32.04,130844.0,Petrol,Individual,Manual,0.0,5,14.78
+BMW,2019,21.47,6481.0,Diesel,Individual,Manual,0.0,5,12.61
+Mercedes,2012,12.88,95453.0,Petrol,Individual,Manual,,12,0.5
+Honda,2012,8.78,128765.0,Petrol,Dealer,Manual,1.0,12,0.5
+Hyundai,2021,19.07,72087.0,Petrol,Individual,Manual,,3,10.16
+Ford,2013,11.07,95265.0,Diesel,Dealer,Automatic,0.0,11,1.38
+Toyota,2017,25.72,166147.0,CNG,Dealer,Manual,1.0,7,8.76
+Nissan,2017,28.05,76354.0,CNG,Individual,Manual,0.0,7,16.28
+Toyota,2013,4.83,196387.0,Diesel,Individual,Manual,1.0,11,0.5
+Kia,2018,11.51,111984.0,CNG,Dealer,Manual,0.0,6,3.82
+Kia,2009,28.04,109601.0,Diesel,Individual,Manual,0.0,15,11.23
+Mercedes,2005,11.91,53008.0,Petrol,Dealer,Manual,2.0,19,0.5
+Kia,2008,34.72,83532.0,Petrol,Dealer,Manual,0.0,16,14.32
+BMW,2014,7.77,111611.0,CNG,Dealer,Manual,0.0,10,0.5
+Nissan,2008,23.39,48949.0,CNG,Dealer,Manual,0.0,16,5.84
+Hyundai,2009,8.46,8849.0,Petrol,Dealer,Automatic,0.0,15,1.24
+Audi,2008,19.65,106968.0,CNG,Dealer,Automatic,2.0,16,2.61
+Suzuki,2012,17.19,157185.0,Petrol,Individual,Manual,0.0,12,2.52
+Honda,2011,31.07,133467.0,CNG,Dealer,Manual,0.0,13,11.14
+BMW,2022,31.3,125076.0,Diesel,Dealer,Manual,0.0,2,19.2
+Honda,2015,8.8,189646.0,Diesel,Dealer,Automatic,2.0,9,0.5
+Kia,2011,12.13,37088.0,Petrol,Individual,Manual,0.0,13,4.75
+Hyundai,2008,13.04,191932.0,Petrol,Individual,Manual,3.0,16,0.5
+Kia,2014,29.41,23199.0,Diesel,Individual,Manual,0.0,10,19.13
+Honda,2008,31.53,151510.0,Petrol,Individual,Automatic,0.0,16,13.6
+Mercedes,2009,26.09,67491.0,Diesel,Individual,Manual,,15,7.34
+Kia,2016,16.88,157614.0,Diesel,Individual,Manual,0.0,8,2.48
+Nissan,2017,34.03,168187.0,Diesel,Trustmark Dealer,Manual,3.0,7,11.46
+Ford,2017,18.88,162608.0,Diesel,Individual,Manual,1.0,7,6.79
+Audi,2021,22.82,60243.0,Petrol,Trustmark Dealer,Manual,1.0,3,10.84
+Audi,2012,3.87,89526.0,Petrol,Dealer,Manual,2.0,12,0.5
+BMW,2016,18.63,73431.0,Diesel,Individual,Manual,2.0,8,6.09
+Suzuki,2014,28.24,99767.0,,Trustmark Dealer,Manual,0.0,10,12.16
+Ford,2016,23.41,71897.0,Diesel,Trustmark Dealer,Manual,1.0,8,10.28
+BMW,2008,25.99,9017.0,Petrol,Dealer,Manual,2.0,16,7.64
+Nissan,2013,34.7,137992.0,Petrol,Dealer,Manual,2.0,11,12.98
+Audi,2010,30.14,45992.0,CNG,Dealer,Automatic,0.0,14,14.51
+Nissan,2022,33.92,143918.0,Petrol,Individual,Manual,0.0,2,18.62
+Audi,2005,30.51,157679.0,CNG,Dealer,Automatic,1.0,19,11.73
+Suzuki,2016,16.44,149866.0,Petrol,Dealer,Manual,2.0,8,3.1
+Ford,2016,30.79,73136.0,Diesel,Individual,Manual,0.0,8,15.17
+Audi,2016,6.24,131649.0,Diesel,Dealer,Manual,0.0,8,0.5
+Mercedes,2009,26.48,39681.0,Petrol,Trustmark Dealer,Manual,2.0,15,10.44
+Toyota,2019,5.0,148674.0,Petrol,Individual,Automatic,0.0,5,0.5
+Kia,2011,17.42,196758.0,Diesel,Individual,Manual,2.0,13,0.5
+Mercedes,2021,22.02,59131.0,Diesel,Dealer,Manual,0.0,3,12.65
+Ford,2016,4.04,158619.0,Petrol,Individual,Automatic,0.0,8,0.5
+Ford,2019,25.41,113946.0,,Individual,Manual,0.0,5,11.97
+Audi,2005,15.94,117935.0,Petrol,Individual,Automatic,2.0,19,1.12
+Mercedes,2022,10.44,156519.0,Petrol,Dealer,Manual,0.0,2,2.68
+Toyota,2006,13.31,58521.0,Petrol,Dealer,Automatic,1.0,18,2.09
+Audi,2006,10.07,35431.0,Diesel,Dealer,Automatic,2.0,18,0.5
+Audi,2017,18.39,79601.0,Diesel,Dealer,Automatic,0.0,7,7.81
+Ford,2013,25.38,86486.0,Diesel,Dealer,Manual,1.0,11,9.35
+Honda,2010,26.38,24996.0,Petrol,Dealer,Manual,0.0,14,13.16
+Suzuki,2015,30.58,90947.0,Petrol,Dealer,Manual,1.0,9,15.43
+Hyundai,2022,7.35,40842.0,Petrol,Individual,Manual,0.0,2,3.67
+Audi,2006,3.22,149941.0,CNG,Individual,Manual,0.0,18,0.5
+BMW,2012,15.93,62649.0,CNG,Individual,Manual,2.0,12,3.04
+BMW,2007,26.44,46520.0,Diesel,Dealer,Manual,0.0,17,9.55
+Mercedes,2022,27.3,111464.0,Diesel,Individual,Manual,0.0,2,14.7
+Honda,2014,6.0,116086.0,Diesel,Trustmark Dealer,Manual,0.0,10,0.5
+BMW,2007,24.68,74463.0,Diesel,Dealer,Manual,1.0,17,8.29
+Audi,2008,23.57,18689.0,Petrol,Individual,Manual,2.0,16,6.87
+Nissan,2008,14.85,105336.0,Petrol,Individual,Manual,2.0,16,0.5
+Audi,2009,22.81,9426.0,Diesel,Dealer,Manual,3.0,15,6.5
+Nissan,2005,22.78,166188.0,CNG,Individual,Manual,0.0,19,1.92
+Honda,2015,12.68,128364.0,CNG,Dealer,Manual,0.0,9,1.35
+BMW,2016,10.24,155368.0,CNG,Dealer,Automatic,0.0,8,0.5
+Hyundai,2018,14.07,142686.0,Petrol,Dealer,Manual,0.0,6,1.42
+Kia,2009,31.22,97910.0,Diesel,Individual,Manual,0.0,15,10.56
+Kia,2016,24.22,161314.0,Petrol,Individual,Automatic,0.0,8,8.7
+Audi,2012,30.01,81872.0,Petrol,Individual,Manual,0.0,12,14.15
+Toyota,2009,12.11,,Petrol,Dealer,Manual,1.0,15,0.5
+Hyundai,2010,20.05,94116.0,CNG,Dealer,Manual,0.0,14,5.08
+Hyundai,2020,33.18,132619.0,Petrol,Dealer,Manual,0.0,4,18.05
+Suzuki,2021,6.65,173925.0,Petrol,Individual,Manual,0.0,3,0.5
+Ford,2011,27.31,140506.0,CNG,Dealer,Manual,2.0,13,6.81
+Nissan,2017,23.82,152595.0,Diesel,Individual,Manual,0.0,7,8.32
+Hyundai,2019,6.0,10520.0,Petrol,Dealer,Manual,2.0,5,0.5
+Mercedes,2008,30.71,170732.0,Petrol,Trustmark Dealer,Manual,1.0,16,11.18
+Audi,2018,4.85,6700.0,Diesel,Individual,Manual,0.0,6,0.5
+BMW,2012,24.79,157008.0,Petrol,Dealer,Manual,1.0,12,6.36
+Nissan,2013,14.41,131374.0,Petrol,Individual,Automatic,1.0,11,3.63
+BMW,2009,24.63,30851.0,Petrol,Individual,Automatic,2.0,15,10.26
+Audi,2011,11.61,191684.0,Petrol,Dealer,Manual,,13,0.5
+Suzuki,2013,10.26,36802.0,Petrol,Dealer,Automatic,0.0,11,1.69
+Toyota,2021,8.55,48361.0,Petrol,Dealer,Manual,2.0,3,1.96
+Toyota,2020,3.19,70048.0,Diesel,Dealer,Manual,2.0,4,0.5
+Nissan,2006,17.45,,Petrol,Individual,Manual,1.0,18,5.29
+Audi,2019,20.36,13024.0,Petrol,Individual,Automatic,0.0,5,12.27
+Honda,2009,8.34,97764.0,Diesel,Individual,Manual,0.0,15,0.5
+Kia,2011,20.24,,CNG,Individual,Automatic,0.0,13,6.02
+Mercedes,2006,5.19,190917.0,Diesel,Dealer,Manual,2.0,18,0.5
+Hyundai,2007,24.08,140189.0,Petrol,Trustmark Dealer,Manual,0.0,17,7.2
+Honda,2022,31.71,67021.0,Diesel,Dealer,Manual,0.0,2,21.64
+Hyundai,2019,9.42,48937.0,Diesel,Dealer,Manual,2.0,5,3.68
+Toyota,2012,13.43,22413.0,Diesel,Dealer,Manual,1.0,12,3.43
+Toyota,2010,13.91,170582.0,Petrol,Dealer,Manual,0.0,14,0.5
+Hyundai,2014,11.19,49942.0,Diesel,Individual,Manual,0.0,10,4.08
+Mercedes,2019,19.32,105755.0,Diesel,Dealer,Manual,0.0,5,7.92
+Nissan,2007,26.03,68972.0,CNG,Dealer,Manual,,17,7.15
+Nissan,2005,30.98,71960.0,Diesel,Individual,Manual,2.0,19,11.36
+Mercedes,2011,12.52,8866.0,Diesel,Dealer,Automatic,1.0,13,4.98
+Nissan,2009,29.4,143731.0,Diesel,Individual,Manual,0.0,15,10.31
+Toyota,2016,22.58,81253.0,Petrol,Individual,Manual,1.0,8,9.99
+Toyota,2012,7.45,62134.0,Petrol,Individual,Automatic,0.0,12,2.23
+Honda,2005,28.35,74561.0,Diesel,Trustmark Dealer,Manual,0.0,19,10.3
+Nissan,2005,3.01,137473.0,Diesel,Dealer,Manual,1.0,19,0.5
+Audi,2022,29.94,163485.0,Petrol,Individual,Manual,1.0,2,14.59
+Audi,2014,6.16,148927.0,Diesel,Dealer,Manual,0.0,10,0.5
+Hyundai,2022,9.71,188232.0,Diesel,Dealer,Manual,0.0,2,1.07
+Ford,2009,6.23,128130.0,Diesel,Dealer,Manual,3.0,15,0.5
+Kia,2008,4.08,100430.0,Petrol,Individual,Manual,1.0,16,0.5
+BMW,2016,22.17,11968.0,Petrol,Individual,Manual,1.0,8,10.1
+Hyundai,2020,27.28,156094.0,Petrol,Dealer,Manual,2.0,4,14.2
+Ford,2020,19.41,190388.0,Petrol,Individual,Manual,0.0,4,4.73
+Suzuki,2008,25.59,52857.0,Petrol,Individual,Manual,0.0,16,9.07
+Honda,2009,29.13,75821.0,CNG,Dealer,Automatic,0.0,15,12.63
+Nissan,2016,3.33,32076.0,Petrol,Dealer,Manual,1.0,8,0.5
+Audi,2012,33.21,153961.0,Diesel,Individual,Automatic,0.0,12,12.47
+Honda,2010,9.26,25583.0,Diesel,Trustmark Dealer,Automatic,0.0,14,1.77
+Ford,2022,6.29,16064.0,Petrol,Individual,Manual,0.0,2,4.15
+Nissan,2006,6.92,90091.0,Petrol,Dealer,Manual,0.0,18,0.5
+Toyota,2008,21.77,104003.0,CNG,Dealer,Automatic,1.0,16,4.56
+Ford,2009,29.24,179398.0,Petrol,Dealer,Manual,0.0,15,9.83
+Mercedes,2020,11.49,56374.0,CNG,Individual,Automatic,1.0,4,3.98
+Nissan,2009,11.97,141198.0,Petrol,Dealer,Manual,1.0,15,0.5
+Kia,2017,5.63,,Diesel,Dealer,Manual,1.0,7,0.82
+Hyundai,2018,17.21,154524.0,Petrol,Dealer,Automatic,2.0,6,4.47
+Toyota,2018,3.95,187003.0,Diesel,Dealer,Manual,1.0,6,0.5
+Toyota,2011,24.61,143746.0,Petrol,Individual,Automatic,,13,9.24
+Hyundai,2013,28.39,192125.0,Petrol,Dealer,Automatic,1.0,11,9.61
+Nissan,2018,29.55,128030.0,Diesel,Dealer,Manual,0.0,6,13.52
+BMW,2022,24.95,199115.0,Diesel,Dealer,Automatic,0.0,2,10.66
+Honda,2019,6.7,39397.0,Petrol,Dealer,Automatic,2.0,5,0.83
+Hyundai,2010,30.29,12812.0,Petrol,Individual,Manual,2.0,14,13.42
+BMW,2016,25.33,47998.0,Petrol,Individual,Manual,0.0,8,13.41
+Nissan,2014,29.49,8832.0,Petrol,Individual,Manual,2.0,10,15.93
+Kia,2020,6.54,93791.0,Petrol,Individual,Automatic,0.0,4,0.5
+Toyota,2022,7.26,147980.0,,Dealer,Manual,1.0,2,0.5
+Nissan,2006,27.66,106158.0,CNG,Dealer,Manual,1.0,18,8.52
+Toyota,2019,29.22,154696.0,Diesel,Individual,Automatic,2.0,5,12.99
+Hyundai,2019,22.98,197312.0,Petrol,Individual,Manual,1.0,5,7.31
+Mercedes,2018,9.95,45695.0,Petrol,Dealer,Manual,0.0,6,3.8
+Honda,2007,3.93,112096.0,Petrol,Dealer,Manual,0.0,17,0.5
+Hyundai,2006,17.77,64500.0,Diesel,Trustmark Dealer,Manual,0.0,18,2.96
+Toyota,2015,20.59,10039.0,Petrol,Dealer,Manual,0.0,9,9.31
+Ford,2020,31.97,63002.0,Petrol,Individual,Manual,0.0,4,18.78
+BMW,2014,30.89,67943.0,Diesel,Individual,Automatic,2.0,10,12.78
+Honda,2017,5.84,,CNG,Individual,Automatic,2.0,7,0.5
+Suzuki,2010,4.89,64722.0,Petrol,Trustmark Dealer,Manual,2.0,14,0.5
+Audi,2008,23.49,183933.0,Diesel,Dealer,Manual,1.0,16,3.68
+Ford,2006,4.14,169055.0,Petrol,Individual,Manual,1.0,18,0.5
+Hyundai,2013,10.58,173798.0,Petrol,Dealer,Automatic,0.0,11,0.5
+Toyota,2009,34.35,90076.0,Diesel,Individual,Manual,0.0,15,16.16
+Audi,2007,9.05,81848.0,Diesel,Dealer,Manual,0.0,17,0.5
+Ford,2020,34.1,34493.0,Petrol,Dealer,Automatic,1.0,4,21.89
+Hyundai,2006,17.94,95101.0,Petrol,Trustmark Dealer,Automatic,1.0,18,2.24
+Ford,2017,21.01,180121.0,Petrol,Dealer,Manual,0.0,7,6.73
+Suzuki,2007,26.36,95009.0,Petrol,Individual,Manual,0.0,17,8.96
+Hyundai,2021,4.72,129881.0,,Dealer,Manual,2.0,3,0.5
+Mercedes,2016,27.26,154865.0,Petrol,Individual,Manual,0.0,8,11.6
+BMW,2014,27.13,166953.0,CNG,Individual,Automatic,0.0,10,11.98
+Nissan,2009,32.52,181098.0,Diesel,Individual,Manual,2.0,15,10.98
+Nissan,2009,33.88,160892.0,Petrol,Dealer,Manual,0.0,15,11.93
+Mercedes,2016,18.13,7642.0,Petrol,Trustmark Dealer,Manual,1.0,8,8.46
+Toyota,2018,8.66,169559.0,Petrol,Dealer,Manual,0.0,6,0.5

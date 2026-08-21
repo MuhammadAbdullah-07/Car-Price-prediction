@@ -1,0 +1,10 @@
+[2026-08-21 10:50:36,277] 23 root - INFO - Entered the data ingestion method or component
+[2026-08-21 10:50:36,292] 26 root - INFO - Dataset read as dataframe
+[2026-08-21 10:50:36,302] 33 root - INFO - Raw data saved successfully
+[2026-08-21 10:50:36,310] 37 root - INFO - Train Test Split initaited
+[2026-08-21 10:50:36,431] 62 root - INFO - Train & test data reading completed
+[2026-08-21 10:50:36,431] 64 root - INFO - Now obtaining preprocessor object
+[2026-08-21 10:50:36,431] 43 root - INFO - Num columns encoding completed
+[2026-08-21 10:50:36,431] 44 root - INFO - Cat columns encoding completed
+[2026-08-21 10:50:36,432] 50 root - INFO - Pipeline Transforamtion Completed !
+[2026-08-21 10:50:36,516] 91 root - INFO - Preprocessor saved successfully

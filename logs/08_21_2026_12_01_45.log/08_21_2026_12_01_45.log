@@ -1,0 +1,17 @@
+[2026-08-21 12:01:50,153] 23 root - INFO - Entered the data ingestion method or component
+[2026-08-21 12:01:50,196] 26 root - INFO - Dataset read as dataframe
+[2026-08-21 12:01:50,217] 33 root - INFO - Raw data saved successfully
+[2026-08-21 12:01:50,229] 37 root - INFO - Train Test Split initaited
+[2026-08-21 12:01:50,331] 62 root - INFO - Train & test data reading completed
+[2026-08-21 12:01:50,331] 64 root - INFO - Now obtaining preprocessor object
+[2026-08-21 12:01:50,331] 43 root - INFO - Num columns encoding completed
+[2026-08-21 12:01:50,332] 44 root - INFO - Cat columns encoding completed
+[2026-08-21 12:01:50,332] 50 root - INFO - Pipeline Transforamtion Completed !
+[2026-08-21 12:01:50,542] 91 root - INFO - Preprocessor saved successfully
+[2026-08-21 12:01:50,542] 29 root - INFO - split Train and test input data
+[2026-08-21 12:01:50,581] 57 root - INFO - LinearRegression \u2192 Training Score: 0.9064795354466119, Test Score: 0.8850394403093634
+[2026-08-21 12:01:50,699] 57 root - INFO - RidgeRegression \u2192 Training Score: 0.9064779480006937, Test Score: 0.8852199574704512
+[2026-08-21 12:01:50,753] 57 root - INFO - LassoRegression \u2192 Training Score: 0.9064192781007256, Test Score: 0.886525124400555
+[2026-08-21 12:01:51,270] 57 root - INFO - ElasticNet \u2192 Training Score: 0.9064231833638609, Test Score: 0.8865111003975079
+[2026-08-21 12:05:27,101] 57 root - INFO - RandomForest \u2192 Training Score: 0.991468725836662, Test Score: 0.9441843701792182
+[2026-08-21 12:08:10,335] 57 root - INFO - GradientBoosting \u2192 Training Score: 0.9758122147184092, Test Score: 0.9507781665662572
