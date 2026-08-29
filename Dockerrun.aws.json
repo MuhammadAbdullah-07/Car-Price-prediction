@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "937419902559.dkr.ecr.us-east-1.amazonaws.com/ml-car-price:IMAGE_TAG",
+    "Name": "937419902559.dkr.ecr.us-east-1.amazonaws.com/ml-car-price:latest",
     "Update": "true"
   },
   "Ports": [
